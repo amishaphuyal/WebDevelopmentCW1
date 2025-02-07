@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$port = 3307;
+$port = 3306;  //check if your working port number for mysql is the same. 
 $dbname = "hospital_management";
 
 // Create connection
